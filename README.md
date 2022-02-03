@@ -1,2 +1,2 @@
-# Naveed-Khan-Portfolio
+# Naveed Khan Portfolio
 My Data Science Portfolio
