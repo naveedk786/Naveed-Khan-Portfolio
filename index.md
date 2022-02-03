@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Naveed Khan Portfolio
+Data Scienctist and enthusiast Machine Learning professional
 
-You can use the [editor on GitHub](https://github.com/naveedk786/Naveed-Khan-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naveedk786/Naveed-Khan-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Project: Credit Card Anomlay Detection
+1.	Developed an Unsupervised Learning Anomaly Detection model to detect fraudulent credit card transactions that can be applied as a Real Time application.
+2.	Data set of 230k credit card transactions was used.
+3.	Exploratory Data Analysis (EDA) performed to visually analyze the statistical information of the data.
+4.	Performed Data cleaning, Data conversion and Feature Selection to reduce dimensionality.
+5.	Used Geocoder API to establish Geodistance for transaction locations.
+6.	Performed Feature Engineering to design new features. 
+7.	Built Isolation Forest model to identify Anomaly score of each sample.
+8.	Compared Isolation Forest model against Local Outlier Factor (LOF) and Support Vector Machine (SVM) for accuracy and error detection.
+9.	Performed Time Series analysis to detect suspicious transactions.
+10.	Developed additional models to identify when credit card holders exceeding their credit limits.
+11.	Technical Summary presented to the client with the results and key modeling assumptions. Also, provided recommendations to enhance fraud detection capabilities and additional data features collection for future model enhancements.
