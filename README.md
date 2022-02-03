@@ -1,4 +1,3 @@
-# Naveed Khan Portfolio
 Data Scienctist and enthusiast Machine Learning professional
 
 ## Project: Credit Card Anomlay Detection
