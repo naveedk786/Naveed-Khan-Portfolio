@@ -1,4 +1,3 @@
-# Naveed_Khan_Portfolio
 Data Scientist and an Enthusiast Machine Learning Professional
 
 # Background
