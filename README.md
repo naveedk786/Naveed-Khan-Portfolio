@@ -1,5 +1,5 @@
 
-# Background
+# BACKGROUND
 *	6+ years broad-based experience in Data Analytics with emphasis on Data Visualization.
 *	Data scientist capable of building data driven machine learning models using scripting languages like Python and R.
 *	25+ years’ experience in Quality Management, Product Engineering and Program Management.
@@ -15,9 +15,9 @@
 *	Applied extensive Statistics and Probability principles during Feature Selection and Feature Engineering.
 *	Completed various Supervised Learning projects on Classification and Regression problems using Decision Tree, Logistic Regression, Simple and Multiple Regressions.
 *	Applied Ensemble Methods on problems using Bagging, Boosting and Ada-Boost.
-*	Trained on Natural Language Processing, Time Series and Deep Learning with focus on Artificial Neural Network(ANN), Convolutional Neural Network(CNN) and Recurrent Neural Network(RNN)
+*	Trained on Natural Language Processing, Time Series and Deep Learning with focus on Artificial Neural Network(ANN), Convolutional Neural Network(CNN) and Recurrent Neural Network(RNN).
 
-# DATA SCIENCE PROJECTS
+## DATA SCIENCE PROJECTS
 
 ## [1.	Credit Card ML Anomaly Detection](https://github.com/naveedk786/Credit-Card-Anomaly-Detection)
 *	Team leader: led Anomaly Detection model for a client to detect fraudulent credit card transactions that can be applied as a Real Time application.
