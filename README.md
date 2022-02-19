@@ -1,4 +1,3 @@
-Data Scientist and an Enthusiast Machine Learning Professional
 
 # Background
 *	6+ years broad-based experience in Data Analytics with emphasis on Data Visualization.
