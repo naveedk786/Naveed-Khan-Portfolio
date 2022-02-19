@@ -8,6 +8,8 @@
 *	Delivered substantial projects from concept to complete deployments.
 
 # DATA SCIENCE EXPERIENCE
+## BIG BANG DATA SCIENCE
+![](BBDS Logo.JPG)
 *	Deep understanding and application of Data Analysis and Visualization using Power BI & Tableau.
 *	Formalized training on Visual Data Sensemaking.
 *	Applied extensive Statistics and Probability principles during Feature Selection and Feature Engineering.
