@@ -7,7 +7,7 @@
 *	Technical mentor capable to coach small to bigger teams on various topics.
 *	Delivered substantial projects from concept to complete deployments.
 
-{+ DATA SCIENCE EXPERIENCE +}
+# {+ DATA SCIENCE EXPERIENCE +}
 ## [BIG BANG DATA SCIENCE](https://www.bigbang-datascience.com/) ![](https://github.com/naveedk786/Naveed_Khan_Portfolio/blob/main/Images/BBDS%20Logo.png)
 *	Deep understanding and application of Data Analysis and Visualization using Power BI & Tableau.
 *	Formalized training on Visual Data Sensemaking.
