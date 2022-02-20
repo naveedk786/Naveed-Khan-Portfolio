@@ -24,7 +24,7 @@
 *	Analyzed various anomaly detection techniques: Isolation Forest, Local Outlier Factor (LOF), Support Vector Machine (SVM) and compared them for the accuracy.
 *	Optimal anomaly detection technique was presented to the client along with key recommendations to enhance fraud detection capabilities and development of additional data features collection for future model enhancements.
 
-###  2.	 Secondary Car Market ML Prediction
+###  [2. Secondary Car Market ML Prediction](https://github.com/naveedk786/Secondardy-Car-Market-Analysis)
 *	Developed a price prediction model for the secondary car market.
 *	The model was created to assist secondary car sellers to be able to quickly and accurately price cars to increase profit margins. 
 *	Developed a regression machine learning algorithm to predict sales price of future cars. 
