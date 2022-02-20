@@ -8,7 +8,7 @@
 *	Delivered substantial projects from concept to complete deployments.
 
 # DATA SCIENCE EXPERIENCE 
-## [BIG BANG DATA SCIENCE](https://www.bigbang-datascience.com/) ![](https://github.com/naveedk786/Naveed_Khan_Portfolio/blob/main/Images/BBDS%20Logo.png)
+## [BIG BANG DATA SCIENCE](https://www.bigbang-datascience.com/) ![](https://github.com/naveedk786/Naveed_Khan_Portfolio/blob/main/Images/BBDSLogo.png)
 *	Deep understanding and application of Data Analysis and Visualization using Power BI & Tableau.
 *	Formalized training on Visual Data Sensemaking.
 *	Applied extensive Statistics and Probability principles during Feature Selection and Feature Engineering.
@@ -18,7 +18,7 @@
 
 ## DATA SCIENCE PROJECTS
 
-### [1. Credit Card ML Anomaly Detection](https://github.com/naveedk786/Credit-Card-Anomaly-Detection)
+###  [1. Credit Card ML Anomaly Detection](https://github.com/naveedk786/Credit-Card-Anomaly-Detection)
 *	Team leader: led Anomaly Detection model for a client to detect fraudulent credit card transactions that can be applied as a Real Time application.
 *	Additional tools were also developed to prevent credit card holders to exceed their credit limits.
 *	Analyzed various anomaly detection techniques: Isolation Forest, Local Outlier Factor (LOF), Support Vector Machine (SVM) and compared them for the accuracy.
