@@ -8,7 +8,7 @@
 *	Delivered substantial projects from concept to complete deployments.
 
 # DATA SCIENCE EXPERIENCE 
-## [BIG BANG DATA SCIENCE INSTITUTE](https://www.bigbang-datascience.com/) ![BBDS](https://github.com/naveedk786/Naveed_Khan_Portfolio/blob/main/Images/BBDS%20Logo.png)
+## [BIG BANG DATA SCIENCE INSTITUTE](https://www.bigbang-datascience.com/) ![](https://github.com/naveedk786/Naveed_Khan_Portfolio/tree/main/Images/BBDS%20Logo.png)
 *	Deep understanding and application of Data Analysis and Visualization using Power BI & Tableau.
 *	Formalized training on Visual Data Sensemaking.
 *	Applied extensive Statistics and Probability principles during Feature Selection and Feature Engineering.
