@@ -18,18 +18,18 @@
 
 ## DATA SCIENCE PROJECTS
 
-## [1. Credit Card ML Anomaly Detection](https://github.com/naveedk786/Credit-Card-Anomaly-Detection)
+### [1. Credit Card ML Anomaly Detection](https://github.com/naveedk786/Credit-Card-Anomaly-Detection)
 *	Team leader: led Anomaly Detection model for a client to detect fraudulent credit card transactions that can be applied as a Real Time application.
 *	Additional tools were also developed to prevent credit card holders to exceed their credit limits.
 *	Analyzed various anomaly detection techniques: Isolation Forest, Local Outlier Factor (LOF), Support Vector Machine (SVM) and compared them for the accuracy.
 *	Optimal anomaly detection technique was presented to the client along with key recommendations to enhance fraud detection capabilities and development of additional data features collection for future model enhancements.
-## 2.	Secondary Car Market ML Prediction
+### 2.	Secondary Car Market ML Prediction
 *	Developed a price prediction model for the secondary car market.
 *	The model was created to assist secondary car sellers to be able to quickly and accurately price cars to increase profit margins. 
 *	Developed a regression machine learning algorithm to predict sales price of future cars. 
 *	Analyzed various ML regression models.
 *	Optimal regression model was presented to stakeholders along with recommendations to increase and improve their dataset in order to develop a stronger machine learning model.
-## 3.	AAA Northeast Member Analysis (in-progress)
+### 3.	AAA Northeast Member Analysis (in-progress)
 *	Developing a ML model to provide a market segmentation of AAA members.
 *	Optimum model will allow AAA Northeast to maximize targeting members to purchase their various products.
 *	Developing a series of “look-alike” models to determine the probability of purchasing each product.  
