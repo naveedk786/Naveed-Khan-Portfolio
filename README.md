@@ -29,7 +29,7 @@
 *	Developed a regression machine learning algorithm to predict sales price of future cars. 
 *	Analyzed various ML regression models.
 *	Optimal regression model was presented to stakeholders along with recommendations to increase and improve their dataset in order to develop a stronger machine learning model.
-### 3.	AAA Northeast Member Analysis (in-progress)
+### [3.  AAA Northeast Member Analysis (in-progress)](https://github.com/naveedk786/AAA-Northeast-Member-Analysis)
 *	Developing a ML model to provide a market segmentation of AAA members.
 *	Optimum model will allow AAA Northeast to maximize targeting members to purchase their various products.
 *	Developing a series of “look-alike” models to determine the probability of purchasing each product.  
