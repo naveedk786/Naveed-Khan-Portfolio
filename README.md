@@ -18,7 +18,7 @@
 
 ## DATA SCIENCE PROJECTS
 
-## [1.	Credit Card ML Anomaly Detection](https://github.com/naveedk786/Credit-Card-Anomaly-Detection)
+## [1. Credit Card ML Anomaly Detection](https://github.com/naveedk786/Credit-Card-Anomaly-Detection)
 *	Team leader: led Anomaly Detection model for a client to detect fraudulent credit card transactions that can be applied as a Real Time application.
 *	Additional tools were also developed to prevent credit card holders to exceed their credit limits.
 *	Analyzed various anomaly detection techniques: Isolation Forest, Local Outlier Factor (LOF), Support Vector Machine (SVM) and compared them for the accuracy.
