@@ -14,8 +14,7 @@
 *  Completed various Supervised Learning projects on Classification and Regression utilizing Decision Tree, Logistic Regression, Simple and Multiple Regressions.
 *  Applied Ensemble Methods using Bagging, Boosting and Ada-Boost.
 *  Trained on Natural Language Processing, Time Series and Deep Learning with focus on Artificial Neural Network (ANN), Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN).
-*  Formalized lecture and Trained class on Visual Data Sensemaking principles.
-tural Language Processing, Time Series and Deep Learning with focus on Artificial Neural Network(ANN), Convolutional Neural Network(CNN) and Recurrent Neural Network(RNN).
+*  Formalized lecture and conducted training on Visual Data Sensemaking principles.
 
 ## DATA SCIENCE PROJECTS
 
