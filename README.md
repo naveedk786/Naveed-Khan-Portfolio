@@ -26,11 +26,11 @@
 *  Presented optimal anomaly detection technique to the client along with key recommendations to enhance fraud detection capabilities and development of additional data features collection for future model enhancements.
 
 ###  [2. Secondary Car Market ML Prediction](https://github.com/naveedk786/Secondardy-Car-Market-Analysis)
-*	 Developed a price prediction model for the secondary car market.
-*	 The model was created to assist secondary car sellers to be able to quickly and accurately price cars to increase profit margins. 
-*	 Developed a regression machine learning algorithm to predict sales price of future cars. 
-*	 Analyzed various ML regression models.
-*	 Optimal regression model was presented to stakeholders along with recommendations to increase and improve their dataset in order to develop a stronger machine learning model.
+*	 Developed and optimized ML Regression model to predict secondary car market pricing.
+*  Trained and tested data and compared using various regressions models like, Multiple Linear Regression, Decision Tree, Random Forrest, Ridge, Lasso, KNN and Elastic Net.
+*  Obtained 68 to 78% accuracy on test data set.
+*  Summarized and presented optimal Regression model and future model improvement plan
+
 
 ###  [3. AAA Northeast Member Analysis (in-progress)](https://github.com/naveedk786/AAA-Northeast-Member-Analysis)
 *	 Developing a ML model to provide a market segmentation of AAA members.
