@@ -16,6 +16,11 @@
 *  Trained on Natural Language Processing, Time Series and Deep Learning with focus on Artificial Neural Network (ANN), Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN).
 *  Formalized lecture and conducted training on Visual Data Sensemaking principles.
 
+## VISUAL DATA SENSEMAKING
+An interesting journey to the exciting world of data visualization. It’s an art that needs to be learnt and perfected with continuous learning. You need to be a visual thinker to imagine how data speaks to you and apply scientific techniques to interpret and transform them into an easy to fallow visuals. I have read many literatures on this topic and one of my last favorite read was by a wonderful author, Stephen Few. His new book, [Now You See it](https://books.google.com/books/about/Now_You_See_It.html?id=_NgVzgEACAAJ), really explained the principle concept behind the data and visualization using modern graphs to find and examine the meaningful patterns and relationships that reside in quantitative data. 
+I was fortunate enough to present the summary of this book to the [Big Bang Data Science Institute](https://www.bigbang-datascience.com/) in February 2022 during their Bootcamp week for Data Visualization foundation training.
+
+
 ## DATA SCIENCE PROJECTS
 
 ###  [1. AAA Northeast Member Analysis (in-progress)](https://github.com/naveedk786/AAA-Northeast-Member-Analysis)
