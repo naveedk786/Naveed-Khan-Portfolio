@@ -18,22 +18,31 @@
 
 ## DATA SCIENCE PROJECTS
 
-###  [1. Credit Card ML Anomaly Detection](https://github.com/naveedk786/Credit-Card-Anomaly-Detection)
-*  Team leader: Architected an Agile Unsupervised anomaly detection ML model for fraudulent credit card transactions. Able to flag 20% of 233k transactions as anomalous. 
-*  Developed algorithms and prevented 9 to 15% credit card holders to exceed their credit limits.
+###  [1. AAA Northeast Member Analysis (in-progress)](https://github.com/naveedk786/AAA-Northeast-Member-Analysis)
+*  Develop a ML model to provide a market segmentation of  21000 AAA members.
+*  Applied data visualization and statistics to reduce feature dimensionality. Achieved 49% features reduction.
+*  Apply One Hot encoding to transform Categorical features.
+*  Develop multiple algorithms to identify members Clustering using K-Means.
+*  Code a series of “look-alike” predictive models: Logistic Regression, K Nearest Neighbors (KNN), Random Forrest, Bagging.
+
+###  [2. Credit Card ML Anomaly Detection](https://github.com/naveedk786/Credit-Card-Anomaly-Detection)
+*  Architected an Agile Unsupervised anomaly detection model. Able to flag 20% anomalous transactions. 
+*  Developed algorithms and prevented up to 15% credit card holders to exceed their credit limits.
 *  Performed Feature Engineering and Feature Selection using Geocoder APIs.
 *  Analyzed and compared various anomaly detection model: Isolation Forest, Local Outlier Factor (LOF), and Support Vector Machine (SVM) and compared for the accuracy. Achieved 91% accuracy with Isolation Forest.
 *  Presented optimal anomaly detection technique to the client along with key recommendations to enhance fraud detection capabilities and development of additional data features collection for future model enhancements.
 
-###  [2. Secondary Car Market ML Prediction](https://github.com/naveedk786/Secondardy-Car-Market-Analysis)
+###  [3. Bitcoin Time Series Analysis](https://github.com/naveedk786/Bitcoin_Timeseries_Analysis)
+*  Developed a ML model to predict Bitcoin price growth by 2% based on only changes from the previous day.
+*  Built Facebook (FB) Prophet, Regression for Time Series, SARIMA & RNN for time series predictive models. 
+*  Compared several models for their performances and recommended FB Prophet and data insight to client for deployment. 
+
+###  [4. Secondary Car Market ML Prediction](https://github.com/naveedk786/Secondardy-Car-Market-Analysis)
 *	 Developed and optimized ML Regression model to predict secondary car market pricing.
 *  Trained and tested data and compared using various regressions models like, Multiple Linear Regression, Decision Tree, Random Forrest, Ridge, Lasso, KNN and Elastic Net.
 *  Obtained 68 to 78% accuracy on test data set.
 *  Summarized and presented optimal Regression model and future model improvement plan
 
 
-###  [3. AAA Northeast Member Analysis (in-progress)](https://github.com/naveedk786/AAA-Northeast-Member-Analysis)
-*	 Developing a ML model to provide a market segmentation of AAA members.
-*	 Optimum model will allow AAA Northeast to maximize targeting members to purchase their various products.
-*	 Developing a series of “look-alike” models to determine the probability of purchasing each product.  
-*	 Performing Clustering analysis to define members segmentation.
+
+
