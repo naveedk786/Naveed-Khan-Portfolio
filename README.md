@@ -18,7 +18,8 @@
 
 ## VISUAL DATA SENSEMAKING
 An interesting journey to the exciting world of data visualization. It’s an art that needs to be learnt and perfected with continuous learning. You need to be a visual thinker to imagine how data speaks to you and apply scientific techniques to interpret and transform them into an easy to follow visuals. I have read many literatures on this topic and one of my last favorite read was by a wonderful author, Stephen Few. His new book, [Now You See it](https://books.google.com/books/about/Now_You_See_It.html?id=_NgVzgEACAAJ), really explained the principle concept behind the data and visualization using modern graphs to find and examine the meaningful patterns and relationships that reside in quantitative data. I was also fortunate enough to connect with Stephen during my review of his book and able to share his thoughts on his work.
-I was fortunate enough to present the summary of this book to the [Big Bang Data Science Institute](https://www.bigbang-datascience.com/) in February 2022 during their Bootcamp week for Data Visualization foundation training.
+
+Thanks to my mentor, Mo Medwani on Data Science, I was invited to present the summary of this book to the [Big Bang Data Science Institute](https://www.bigbang-datascience.com/) in February 2022 during their Bootcamp week for Data Visualization foundation training. It was an honor and remarkable gesture by [Mo Medwani](https://www.linkedin.com/in/medwani/) to allow me to share my experience and undersatnding of this topic to his class.
 
 
 ## DATA SCIENCE PROJECTS
